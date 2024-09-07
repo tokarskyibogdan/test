@@ -1,0 +1,15 @@
+
+body {
+    background: pink;
+}
+
+.picture {
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
